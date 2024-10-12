@@ -19,8 +19,8 @@ Step 6: Analyzing the dataset using visualizing tools from matplot library or se
 
 ## Program and Output:
 ```
-Developed by: Paul Andrew D
-Register no: 212221230075
+Developed by: Mothesh M
+Register no: 212221230066
 ```
 #### Importing Libraries:
 
